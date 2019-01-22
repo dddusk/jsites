@@ -1,0 +1,28 @@
+@import 'libs/vars';
+@import 'libs/functions';
+@import 'libs/mixins';
+@import 'libs/vendor';
+@import 'libs/breakpoints';
+@import 'libs/html-grid';
+
+/*
+	Stellar by untitled
+	untitled.com | hello@untitled.com
+	License: untitled.com/license
+*/
+
+/* Header */
+
+	#header {
+		body.is-preload & {
+			&.alt {
+				> * {
+					opacity: 1;
+				}
+
+				.logo {
+					@include vendor('transform', 'none');
+				}
+			}
+		}
+	}

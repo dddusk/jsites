@@ -1,0 +1,18 @@
+/*
+	Stellar by untitled
+	untitled.com | hello@untitled.com
+	License: untitled.com/license
+*/
+
+/* Header */
+
+	body.is-preload #header.alt > * {
+		opacity: 1;
+	}
+
+	body.is-preload #header.alt .logo {
+		-moz-transform: none;
+		-webkit-transform: none;
+		-ms-transform: none;
+		transform: none;
+	}

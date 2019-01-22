@@ -1,0 +1,26 @@
+///
+/// Future Imperfect by untitled
+/// untitled.com | hello@untitled.com
+/// License: untitled.com/license
+///
+
+/* Icon */
+
+	.icon {
+		@include icon;
+		border-bottom: none;
+		position: relative;
+
+		> .label {
+			display: none;
+		}
+
+		&.prefix {
+		}
+
+		&.suffix {
+			&:before {
+				float: right;
+			}
+		}
+	}

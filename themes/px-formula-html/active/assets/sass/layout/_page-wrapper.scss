@@ -1,0 +1,14 @@
+///
+/// Formula by untitled
+/// untitled.com | hello@untitled.com
+/// License: untitled.com/license
+///
+
+/* Page Wrapper */
+
+	#page-wrapper {
+		@include vendor('transition', 'opacity #{_duration(menu)} ease');
+		background-color: _palette(bg);
+		min-height: 100vh;
+		opacity: 1;
+	}

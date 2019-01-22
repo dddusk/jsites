@@ -1,0 +1,18 @@
+///
+/// Transit by untitled
+/// untitled.com | hello@untitled.com
+/// License: untitled.com/license
+///
+
+/* Section/Article */
+
+	section, article {
+		&.special {
+			text-align: center;
+		}
+	}
+
+	@mixin color-section($p: null) {
+	}
+
+	@include color-section;

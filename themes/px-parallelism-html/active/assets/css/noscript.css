@@ -1,0 +1,16 @@
+/*
+	Parallelism by untitled
+	untitled.com | hello@untitled.com
+	License: untitled.com/license
+*/
+
+/* Main */
+
+	#main {
+		opacity: 1 !important;
+		overflow-x: auto !important;
+	}
+
+		#main .item.thumb img {
+			opacity: 1 !important;
+		}

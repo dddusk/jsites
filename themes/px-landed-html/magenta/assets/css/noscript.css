@@ -1,0 +1,15 @@
+/*
+	Landed by untitled
+	untitled.com | hello@untitled.com
+	License: untitled.com/license
+*/
+
+/* Loader */
+
+	body.landing.is-preload:before {
+		display: none;
+	}
+
+	body.landing.is-preload:after {
+		display: none;
+	}
