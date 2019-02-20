@@ -473,7 +473,7 @@ print 'It took ' + i + ' iterations to sort the deck.';
 						<div class="contact">
 							<h2>Contact</h2>
 							<ul class="contact-icons">
-								<li class="icon fa-home"><a href="#">1234 Fictional Street #5432<br>Nashville, TN 00000-0000</a></li>
+								<li class="icon fa-home"><a href="#">1234 Fictional Street #5432<br>Miami, FL 00000-0000</a></li>
 								<li class="icon fa-phone"><a href="#">(000) 000-0000</a></li>
 								<li class="icon fa-envelope-o"><a href="#">info@untitled.tld</a></li>
 							</ul>

@@ -433,7 +433,7 @@ print 'It took ' + i + ' iterations to sort the deck.';
 								<li>
 									<h4 class="icon alt fa-home"><span class="label">Address</span></h4>
 									<span>1234 Somewhere Road #80486<br />
-									Nashville, TN 00000</span>
+									Miami, FL 00000</span>
 								</li>
 								<li>
 									<h4 class="icon alt fa-phone"><span class="label">Phone</span></h4>

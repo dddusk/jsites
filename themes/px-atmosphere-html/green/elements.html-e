@@ -458,7 +458,7 @@ print 'It took ' + i + ' iterations to sort the deck.';
 							<ul class="contact">
 								<li class="icon fa-home">
 									<strong>Address</strong>
-									1234 Fictional Avenue<br>Nashville, TN 00000
+									1234 Fictional Avenue<br>Miami, FL 00000
 								</li>
 								<li class="icon fa-phone">
 									<strong>Phone</strong>

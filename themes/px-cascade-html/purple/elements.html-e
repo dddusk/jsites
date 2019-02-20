@@ -425,7 +425,7 @@ print 'It took ' + i + ' iterations to sort the deck.';
 		<!-- Footer -->
 			<footer id="footer">
 				<ul class="contact-icons">
-					<li class="icon fa-map-marker"><a href="#">1234 Fictional Street #5432 Nashville, TN 00000-0000</a></li>
+					<li class="icon fa-map-marker"><a href="#">1234 Fictional Street #5432 Miami, FL 00000-0000</a></li>
 					<li class="icon fa-phone"><a href="#">(000) 000-0000</a></li>
 					<li class="icon fa-envelope"><a href="#">info@untitled.tld</a></li>
 				</ul>

@@ -362,7 +362,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 					<li>
 						<h3 class="icon fa-map major"><span class="label">Address</span></h3>
 						<p>1234 Fictional Road<br />
-						Nashville, TN 00000</p>
+						Miami, FL 00000</p>
 					</li>
 					<li>
 						<h3 class="icon fa-envelope major"><span class="label">Email</span></h3>
